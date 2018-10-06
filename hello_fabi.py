@@ -1,7 +1,2 @@
-def surprise(n):
+'''This is now a patched version'''
 
-    for i in range(n):
-
-        print("***** hello fabi *****\n\n")
-
-'''im confused'''
